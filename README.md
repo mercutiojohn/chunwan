@@ -106,3 +106,7 @@ The database contains information about the actors and actresses who have partic
 ### 6. 重要演员的合作网络
 
 ![重要演员的合作网络](./relationship_graph.png)
+
+# License
+MIT
+CC 4.0 BY-NC-SA
