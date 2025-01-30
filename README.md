@@ -7,8 +7,9 @@ This is a simple analysis, with data of the Chinese New Year Gala (Chunwan) data
 The database contains information about programs, actors and actresses who have participated in the Chunwan from 1983 to 2015. 
 
 The data was collected from:
-- CCTV Official Website (cctv.com)
+- CMG Official Website (cctv.com)
 - Historical Weibo Program Lists
+- http://webftp.bbs.hnol.net/dysr/201301/CW30Y_cctv/CW30Y_cctv_JMD_20130308.htm (Special Thanks)
 - Spring Festival Gala Archives
 - Media Reports and News Articles
 
@@ -25,9 +26,9 @@ Data collection for 2016-2025 is ongoing through:
 数据库包含了从1983年到2015年参加春晚的演员和节目的信息。
 
 数据来自：
-- cctv.cn
+- CMG 官网 (cctv.com)
 - 历年春晚微博节目单
-- http://webftp.bbs.hnol.net/dysr/201301/CW30Y_cctv/CW30Y_cctv_JMD_20130308.htm (Special Thanks)
+- http://webftp.bbs.hnol.net/dysr/201301/CW30Y_cctv/CW30Y_cctv_JMD_20130308.htm (特别感谢)
 - 央视网春晚官方资料
 - 各大媒体报道整理
 
