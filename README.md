@@ -2,15 +2,40 @@
 
 ## Introduction
 
-This is a simple analysis of the Chinese New Year Gala (Chunwan) database. 
+This is a simple analysis, with data of the Chinese New Year Gala (Chunwan) database. 
 
-The database contains information about the actors and actresses who have participated in the Chunwan from 1983 to 2015. The data was collected from the Chinese New Year Gala.
+The database contains information about programs, actors and actresses who have participated in the Chunwan from 1983 to 2015. 
+
+The data was collected from:
+- CCTV Official Website (cctv.com)
+- Historical Weibo Program Lists
+- Spring Festival Gala Archives
+- Media Reports and News Articles
+
+Data collection for 2016-2025 is ongoing through:
+- Annual CCTV Spring Festival Gala broadcasts
+- Official CCTV social media accounts
+- Press releases and media coverage
+- Program lists from CCTV websites
 
 ## 介绍
 
-这是一个关于中国春晚数据库的简单分析。
+这是一个关于春晚节目单的数据库以及简单分析。
 
-数据库包含了从1983年到2015年参加春晚的演员的信息。数据是从中国春晚中收集的。
+数据库包含了从1983年到2015年参加春晚的演员和节目的信息。
+
+数据来自：
+- cctv.cn
+- 历年春晚微博节目单
+- http://webftp.bbs.hnol.net/dysr/201301/CW30Y_cctv/CW30Y_cctv_JMD_20130308.htm (Special Thanks)
+- 央视网春晚官方资料
+- 各大媒体报道整理
+
+2016-2025年的数据正在通过以下渠道收集整理中：
+- 央视春晚直播节目
+- CCTV官方社交媒体账号
+- 新闻发布会及媒体报道
+- 央视网站节目单
 
 ## 发现
 
